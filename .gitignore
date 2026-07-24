@@ -3,20 +3,16 @@
 *.log
 *.str
 
-.cache/
-.hw/
-.ip_user_files/
-.sim/
-.runs/
-.gen/
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
 
-# Xilinx
 Xil/
 
-# Backup files
 *~
 *.bak
-
-# OS
 .DS_Store
 Thumbs.db

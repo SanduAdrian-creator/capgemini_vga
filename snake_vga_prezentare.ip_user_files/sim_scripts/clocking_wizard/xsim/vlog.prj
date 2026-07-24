@@ -1,9 +1,0 @@
-verilog xil_defaultlib -i "../../../../../../AMDDesignTools/2025.2/Vivado/data/rsb/busdef" --include "../../../../snake_vga.gen/sources_1/bd/clocking_wizard/ipshared/a415" \
-"../../../bd/clocking_wizard/ip/clocking_wizard_clk_wiz_0_0/clocking_wizard_clk_wiz_0_0_clk_wiz.v" \
-"../../../bd/clocking_wizard/ip/clocking_wizard_clk_wiz_0_0/clocking_wizard_clk_wiz_0_0.v" \
-"../../../bd/clocking_wizard/sim/clocking_wizard.v" \
-
-verilog xil_defaultlib "glbl.v"
-
-# Do not sort compile order
-nosort
