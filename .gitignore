@@ -1,0 +1,22 @@
+# Vivado
+*.jou
+*.log
+*.str
+
+.cache/
+.hw/
+.ip_user_files/
+.sim/
+.runs/
+.gen/
+
+# Xilinx
+Xil/
+
+# Backup files
+*~
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
